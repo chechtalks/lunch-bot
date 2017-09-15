@@ -41,7 +41,7 @@ class LunchBotTest {
     @InjectMocks
     lateinit private var bot: LunchBot
 
-    @Rule @JvmField
+    @Rule
     var capture = OutputCapture()
 
     val SOHO_MENU_NOT_FOUND = "No encontre el menu de hoy para Cocina Soho :thinking_face:"
