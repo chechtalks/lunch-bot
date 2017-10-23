@@ -50,5 +50,7 @@ dependencies {
 
     /* Other dependencies */
     compile "me.ramswaroop.jbot:jbot:3.+"
+    compile "com.github.seratch:jslack:1.+"
     compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.+"
+    testCompile "com.nhaarman:mockito-kotlin-kt1.1:1.5.+"
 }

@@ -17,16 +17,9 @@ class LunchBot(private val env: Environment, private val commands: List<BotComma
 
     private val LOG = LoggerFactory.getLogger(LunchBot::class.java)
 
-    override fun getSlackToken(): String {
-        val slackToken = env.getProperty("slackBotToken")
-        LOG.trace("getting slack token : $slackToken")
+    override fun getSlackToken() = env.getProperty("slackBotToken")!!
 
-        return slackToken
-    }
-
-    override fun getSlackBot(): Bot {
-        return this
-    }
+    override fun getSlackBot() = this
 
     @Controller(events = arrayOf(EventType.DIRECT_MENTION, EventType.DIRECT_MESSAGE))
     fun onMessage(session: WebSocketSession, event: Event) {
