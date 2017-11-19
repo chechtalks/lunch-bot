@@ -10,6 +10,13 @@ fun String.dropFirstNonLetters() = this.dropWhile { !it.isLetter() }
 
 fun String.preformatted() = "```$this```"
 
-fun String.quoted() = "> $this"
+fun String.quoted() = "$QUOTE_SYMBOL $this"
+
+fun String.isQuoted() = this.startsWith(QUOTE_SYMBOL) or this.startsWith(ESCAPED_QUOTE_SYMBOL)
+
+fun String.removeQuotes() = this.removePrefix(ESCAPED_QUOTE_SYMBOL).trim()
 
 const val DOUBLE_JUMP = "\n\n"
+
+const val QUOTE_SYMBOL = ">"
+const val ESCAPED_QUOTE_SYMBOL = "&gt;"

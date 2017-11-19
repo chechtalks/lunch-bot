@@ -4,16 +4,12 @@ import com.github.seratch.jslack.Slack
 import com.github.seratch.jslack.api.methods.MethodsClient
 import com.github.seratch.jslack.api.methods.request.channels.ChannelsHistoryRequest
 import com.github.seratch.jslack.api.methods.request.reactions.ReactionsGetRequest
-import com.github.seratch.jslack.api.model.Message
-import com.nhaarman.mockito_kotlin.doReturn
-import com.nhaarman.mockito_kotlin.mock
 import org.hamcrest.Matchers
 import org.junit.Assert.assertThat
 import org.junit.Ignore
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.core.env.Environment
 import org.springframework.test.context.ContextConfiguration
 import org.springframework.test.context.junit4.SpringRunner
 import kotlin.test.assertTrue
@@ -31,11 +27,11 @@ class MethodsOperationsTest {
     @Ignore
     fun it_fetches_historic_messages_from_channel() {
         //given
-        val mockEnv = mock<Environment> {
-            on { getProperty("slackBotToken") } doReturn A_TOKEN
-        }
+//        val mockEnv = mock<Environment> {
+//            on { getProperty("slackBotToken") } doReturn A_TOKEN
+//        }
 
-        val messageHistory = channelOperations.getMessageHistory(A_CHANNEL)
+        val messageHistory = channelOperations.fetchMessageHistory(A_CHANNEL)
 
         //then
         assertThat(messageHistory.size, Matchers.greaterThan(50))
@@ -66,7 +62,7 @@ class MethodsOperationsTest {
 
     }
 
-    private fun fetchAMessage(slackMethodsApi: MethodsClient): Message {
+    private fun fetchAMessage(slackMethodsApi: MethodsClient): ApiMessage {
         val request = ChannelsHistoryRequest.builder()
                 .token(A_TOKEN)
                 .channel(A_CHANNEL)

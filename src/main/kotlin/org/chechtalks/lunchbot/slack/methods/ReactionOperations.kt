@@ -2,8 +2,6 @@ package org.chechtalks.lunchbot.slack.methods
 
 import com.github.seratch.jslack.api.methods.MethodsClient
 import com.github.seratch.jslack.api.methods.request.reactions.ReactionsGetRequest
-import com.github.seratch.jslack.api.model.Message
-import com.github.seratch.jslack.api.model.Reaction
 import org.springframework.stereotype.Component
 
 @Component
@@ -11,7 +9,7 @@ class ReactionOperations(
         private val slackMethodsApi: MethodsClient,
         private val slackToken: String) {
 
-    fun getReactions(channel: String, message: Message): Message? {
+    fun fetchReactions(channel: String, message: ApiMessage): ApiMessage? {
         val request = ReactionsGetRequest.builder()
                 .token(slackToken)
                 .channel(channel)

@@ -14,3 +14,5 @@ class MethodsApiConfiguration(private val env: Environment) {
     @Bean
     fun slackToken() = env.getProperty("slackBotToken")
 }
+
+typealias ApiMessage = com.github.seratch.jslack.api.model.Message
