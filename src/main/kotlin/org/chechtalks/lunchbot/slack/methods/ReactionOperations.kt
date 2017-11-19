@@ -1,27 +1,28 @@
 package org.chechtalks.lunchbot.slack.methods
 
 import com.github.seratch.jslack.api.methods.MethodsClient
-import com.github.seratch.jslack.api.methods.request.channels.ChannelsHistoryRequest
+import com.github.seratch.jslack.api.methods.request.reactions.ReactionsGetRequest
 import com.github.seratch.jslack.api.model.Message
+import com.github.seratch.jslack.api.model.Reaction
 import org.springframework.stereotype.Component
 
 @Component
-class ChannelOperations(
+class ReactionOperations(
         private val slackMethodsApi: MethodsClient,
         private val slackToken: String) {
 
-    fun getMessageHistory(channel: String, count: Int = 100): List<Message> {
-        val request = ChannelsHistoryRequest.builder()
+    fun getReactions(channel: String, message: Message): Message? {
+        val request = ReactionsGetRequest.builder()
                 .token(slackToken)
                 .channel(channel)
-                .count(count)
+                .timestamp(message.ts)
                 .build()
 
-        val response = slackMethodsApi.channelsHistory(request)
+        val response = slackMethodsApi.reactionsGet(request)
 
         assert(response.isOk) { "Error calling Slack Methods API" }
 
-        return response.messages
+        return response.message
     }
 
 }
