@@ -1,0 +1,3562 @@
+{
+  "ok": true,
+  "messages": [
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*7* pedidos de _ Anchoas (Muzzarella y anchoas) _",
+      "ts": "1511202407.000019"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511202406.000350"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511202405.000325"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511202372.000098"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*7* pedidos de _ Anchoas (Muzzarella y anchoas) _",
+      "ts": "1511201301.000113"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511201300.000435"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> contame los menues",
+      "ts": "1511201299.000529"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*7* pedidos de _ Anchoas (Muzzarella y anchoas) _",
+      "ts": "1511197877.000794"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511197877.000603"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511197877.000093"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Parece que nadie orden\u00f3 nada en este canal :sleeping:.",
+      "ts": "1511197847.000540"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511197846.000304"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*6* pedidos de _ *1* - Carne _",
+      "ts": "1511195354.000535"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*8* pedidos de _ *3* - Carne Picante _",
+      "ts": "1511195354.000534"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*1* pedido de _ *1* - Carne _",
+      "ts": "1511195354.000533"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511195354.000340"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511195353.000433"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*6* lunchbot.response.summary.ordersrof _ *1* - Carne _",
+      "ts": "1511195289.000207"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*8* lunchbot.response.summary.ordersrof _ *3* - Carne Picante _",
+      "ts": "1511195289.000206"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*1* pedido de _ *1* - Carne _",
+      "ts": "1511195289.000205"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511195288.000553"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511195287.000644"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*6* lunchbot.response.summary.ordersrof _ *1* - Carne _",
+      "ts": "1511194871.000227"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*8* lunchbot.response.summary.ordersrof _ *3* - Carne Picante _",
+      "ts": "1511194871.000226"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*1* pedido de _ *1* - Carne _",
+      "ts": "1511194871.000224"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511194871.000039"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511194870.000134"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "@mor",
+      "ts": "1511194863.000175"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; R\u00facula",
+      "ts": "1511194503.000653"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron)",
+      "ts": "1511194503.000652"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anchoas (Muzzarella y anchoas)",
+      "ts": "1511194503.000651",
+      "reactions": [
+        {
+          "name": "seven",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort (Muzzarella y roquefort)",
+      "ts": "1511194503.000501"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Muzzarella y salame calabresa)",
+      "ts": "1511194503.000500"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Napolitana (Muzzarella, tomate y albahaca)",
+      "ts": "1511194503.000499"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Fugaza (Muzzarella y cebolla rehogada)",
+      "ts": "1511194503.000498"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anan\u00e1 (Muzzarella y anan\u00e1)",
+      "ts": "1511194503.000497"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Palmitos (Muzzarella, palmitos y salsa golf)",
+      "ts": "1511194503.000496"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Especial (Muzzarella, morron y jam\u00f3n)",
+      "ts": "1511194503.000495"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Muzzarella (Muzzarella y salsa)",
+      "ts": "1511194503.000494"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511194503.000493"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*Pizzas*:",
+      "ts": "1511194503.000492"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *22* - Dulce de Membrillo",
+      "ts": "1511194503.000491"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *21* - Dulce de Batata",
+      "ts": "1511194503.000490"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *20* - Dulce de Leche y Chocolate",
+      "ts": "1511194503.000489"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *19* - Dulce de Leche y Banana",
+      "ts": "1511194503.000488"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *18* - Dulce de Leche",
+      "ts": "1511194503.000487"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *17* - Panceta y Ciruela",
+      "ts": "1511194503.000486"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *16* - 4 Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511194503.000485"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *15* - Calabresa (Queso y salame calabresa)",
+      "ts": "1511194503.000484"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *14* - Carne de Cerdo",
+      "ts": "1511194503.000483"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *13* - Matambre",
+      "ts": "1511194503.000482"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *12* - Jam\u00f3n y anan\u00e1",
+      "ts": "1511194503.000481"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *11* - Caprese (Tomate, queso y albahaca)",
+      "ts": "1511194503.000480"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *10* - At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota)",
+      "ts": "1511194503.000479"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *9* - Verdura (Acelga, morr\u00f3n, cebolla y ricota)",
+      "ts": "1511194503.000414"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *8* - Roquefort y Muzzarella",
+      "ts": "1511194503.000413"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *7* - Pollo",
+      "ts": "1511194503.000411"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *6* - Queso y Cebolla (Verdeo, queso y cebolla)",
+      "ts": "1511194503.000410"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *5* - Humita (Salsa blanca y choclo)",
+      "ts": "1511194503.000409"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *4* - Jamon y Queso",
+      "ts": "1511194503.000408"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *3* - Carne Picante",
+      "ts": "1511194503.000407"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *2* - Carne Dulce (Aceitunas, pasas y huevo)",
+      "ts": "1511194503.000406"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *1* - Carne",
+      "ts": "1511194503.000405"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: <http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: <tel:0249442-3966|0249 442-3966>\n\n*Empanadas*:",
+      "ts": "1511194503.000404"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo de rosa",
+      "ts": "1511194503.000041"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No encontr\u00e9 el men\u00fa de hoy. Probablemente todav\u00eda no lo subieron :thinking_face:. Si no confi\u00e1s en m\u00ed, prob\u00e1 con `@morfi-bot posts en cocina soho`.",
+      "ts": "1511194494.000487"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu soho",
+      "ts": "1511194492.000528"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*6* lunchbot.response.summary.ordesrof _ *1* - Carne _",
+      "ts": "1511194484.000178"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*8* lunchbot.response.summary.ordesrof _ *3* - Carne Picante _",
+      "ts": "1511194484.000177"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*1* pedido de _ *1* - Carne _",
+      "ts": "1511194484.000176"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511194483.000864"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=10",
+      "ts": "1511194482.000289"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*6* lunchbot.response.summary.ordesrof _ *1* - Carne _",
+      "ts": "1511194264.000022"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*8* lunchbot.response.summary.ordesrof _ *3* - Carne Picante _",
+      "ts": "1511194264.000021"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*1* pedido de _ *1* - Carne _",
+      "ts": "1511194264.000020"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511194263.000378"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511194262.000514"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "* 3 * sadsa",
+      "ts": "1511193742.000253"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "asds *2*",
+      "ts": "1511193727.000084"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "_sdsa_ *2*2",
+      "ts": "1511193723.000420"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "_ sdsad _",
+      "ts": "1511193698.000052"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 286 ms con deep=1000",
+      "ts": "1511193199.000769"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511193199.000767"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511193199.000766"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511193199.000765"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511193199.000572"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Dame unos segundos :timer_clock:...",
+      "ts": "1511193199.000343"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511193199.000120"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 1178 ms con deep=1000",
+      "ts": "1511193131.000247"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511193131.000246"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511193131.000245"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511193131.000244"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511193131.000067"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Dame unos segundos :timer_clock:...",
+      "ts": "1511193129.000657"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511193129.000397"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 19818 ms con deep=1000",
+      "ts": "1511193094.000229"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511193094.000228"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511193094.000227"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511193094.000226"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511193094.000077"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Dame unos segundos :timer_clock:...",
+      "ts": "1511193074.000229"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511193073.000789"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt; sad\n&gt; asd",
+      "ts": "1511193040.000305"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt; sdsd\nsadsda",
+      "ts": "1511193032.000183"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt;&gt;&gt; sadsd\ndsadsd\nsdasd",
+      "ts": "1511193025.000563"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt;&gt;&gt; sadas",
+      "ts": "1511193019.000639"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt; asds",
+      "ts": "1511193017.000019"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "_asdsadsd_",
+      "ts": "1511132280.000093"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "`asdas`",
+      "ts": "1511132276.000150"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&gt; sadas",
+      "ts": "1511132274.000024"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "- sad\n- sadas",
+      "ts": "1511132256.000007"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 16144 ms con deep=1000",
+      "ts": "1511132175.000115"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511132175.000114"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511132175.000113"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511132175.000112"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511132175.000078"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Dame unos segundos :timer_clock:...",
+      "ts": "1511132159.000081"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511132159.000031"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": ":timer_clock:",
+      "ts": "1511131498.000007"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": ":timer_clock:",
+      "ts": "1511131478.000095"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 15895 ms con deep=1000",
+      "ts": "1511131362.000080"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511131362.000079"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511131362.000078"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511131362.000077"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511131362.000043"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "\/giphy timer",
+      "ts": "1511131346.000087"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511131346.000058"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511131346.000016"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "",
+      "bot_id": "B4H4FA0LC",
+      "attachments": [
+        {
+          "fallback": "giphy: https:\/\/giphy.com\/gifs\/foxhomeent-3oz8xBmTULwn1QSNgI",
+          "image_url": "https:\/\/media0.giphy.com\/media\/3oz8xBmTULwn1QSNgI\/giphy-tumblr.gif",
+          "image_width": 250,
+          "image_height": 140,
+          "image_bytes": 631758,
+          "is_animated": true,
+          "title": "timer",
+          "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/foxhomeent\/|20th Century Fox Home Entertainment>",
+          "id": 1,
+          "title_link": "https:\/\/giphy.com\/gifs\/foxhomeent-3oz8xBmTULwn1QSNgI"
+        }
+      ],
+      "ts": "1511131291.000028"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 18096 ms con deep=1000",
+      "ts": "1511127294.000050"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511127294.000049"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511127294.000048"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511127294.000047"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511127294.000022"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511127276.000006"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=1000",
+      "ts": "1511127275.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 3368 ms con deep=100",
+      "ts": "1511127267.000010"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "1 pedidos de *1* - Carne",
+      "ts": "1511127267.000009"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511127266.000099"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511127263.000047"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511127263.000019"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; R\u00facula",
+      "ts": "1511127251.000016"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron)",
+      "ts": "1511127251.000015"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anchoas (Muzzarella y anchoas)",
+      "ts": "1511127251.000014"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort (Muzzarella y roquefort)",
+      "ts": "1511127250.000169"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Muzzarella y salame calabresa)",
+      "ts": "1511127250.000168"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Napolitana (Muzzarella, tomate y albahaca)",
+      "ts": "1511127250.000167"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Fugaza (Muzzarella y cebolla rehogada)",
+      "ts": "1511127250.000166"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anan\u00e1 (Muzzarella y anan\u00e1)",
+      "ts": "1511127250.000165"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Palmitos (Muzzarella, palmitos y salsa golf)",
+      "ts": "1511127250.000164"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Especial (Muzzarella, morron y jam\u00f3n)",
+      "ts": "1511127250.000163"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Muzzarella (Muzzarella y salsa)",
+      "ts": "1511127250.000162"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511127250.000161"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*Pizzas*:",
+      "ts": "1511127250.000160"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *22* - Dulce de Membrillo",
+      "ts": "1511127250.000159"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *21* - Dulce de Batata",
+      "ts": "1511127250.000158"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *20* - Dulce de Leche y Chocolate",
+      "ts": "1511127250.000157"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *19* - Dulce de Leche y Banana",
+      "ts": "1511127250.000156"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *18* - Dulce de Leche",
+      "ts": "1511127250.000155"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *17* - Panceta y Ciruela",
+      "ts": "1511127250.000154"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *16* - 4 Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511127250.000153"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *15* - Calabresa (Queso y salame calabresa)",
+      "ts": "1511127250.000152"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *14* - Carne de Cerdo",
+      "ts": "1511127250.000151"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *13* - Matambre",
+      "ts": "1511127250.000150"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *12* - Jam\u00f3n y anan\u00e1",
+      "ts": "1511127250.000149"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *11* - Caprese (Tomate, queso y albahaca)",
+      "ts": "1511127250.000148"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *10* - At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota)",
+      "ts": "1511127250.000147"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *9* - Verdura (Acelga, morr\u00f3n, cebolla y ricota)",
+      "ts": "1511127250.000136"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *8* - Roquefort y Muzzarella",
+      "ts": "1511127250.000135"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *7* - Pollo",
+      "ts": "1511127250.000134"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *6* - Queso y Cebolla (Verdeo, queso y cebolla)",
+      "ts": "1511127250.000133"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *5* - Humita (Salsa blanca y choclo)",
+      "ts": "1511127250.000132"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *4* - Jamon y Queso",
+      "ts": "1511127250.000131"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *3* - Carne Picante",
+      "ts": "1511127250.000130"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *2* - Carne Dulce (Aceitunas, pasas y huevo)",
+      "ts": "1511127250.000129"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *1* - Carne",
+      "ts": "1511127250.000128",
+      "reactions": [
+        {
+          "name": "heavy_plus_sign",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: <http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: <tel:0249442-3966|0249 442-3966>\n\n*Empanadas*:",
+      "ts": "1511127250.000126"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo de rosa",
+      "ts": "1511127250.000057"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511127238.000117"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511127235.000074"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=100",
+      "ts": "1511127235.000038"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 13031 ms con deep=1000",
+      "ts": "1511127225.000066"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511127225.000065"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511127225.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511127225.000023"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511127212.000037"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep = 100",
+      "ts": "1511127212.000012"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 12155 ms con deep=1000",
+      "ts": "1511126282.000028"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511126282.000027"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511126282.000026"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511126282.000002"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511126269.000088"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511126269.000048"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511126220.000024"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 33189 ms con deep=400",
+      "ts": "1511125563.000053"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125563.000052"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125563.000051"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125563.000017"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125529.000091"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=400",
+      "ts": "1511125529.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 38090 ms con deep=1000",
+      "ts": "1511125519.000148"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125519.000147"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125519.000146"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125519.000105"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125481.000065"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125481.000028"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 10679 ms con deep=100",
+      "ts": "1511125429.000004"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125429.000003"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125429.000002"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125428.000101"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125418.000027"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125417.000110"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 10832 ms con deep=100",
+      "ts": "1511125409.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125409.000063"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125409.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125409.000033"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125398.000064"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125398.000035"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Tard\u00e9 8569 ms con deep=100",
+      "ts": "1511125389.000041"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125389.000040"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125389.000039"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125389.000012"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125380.000091"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125380.000054"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125197.000040"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125197.000039"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125197.000011"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125162.000058"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125162.000026"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125150.000005"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125150.000004"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125149.000079"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125113.000022"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511125112.000127"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&amp;gt; *17* - Panceta y Ciruela",
+      "ts": "1511125104.000079"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de *1* - Carne",
+      "ts": "1511125098.000009"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de *3* - Carne Picante",
+      "ts": "1511125098.000008"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511125097.000058"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511125060.000094"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo de pedidos",
+      "ts": "1511125060.000049"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511125051.000075"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> recuento pedidos",
+      "ts": "1511125051.000038"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "sarasds &gt; hola",
+      "ts": "1511124770.000045"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "6 pedidos de &amp;gt; *1* - Carne",
+      "ts": "1511124693.000129"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "8 pedidos de &amp;gt; *3* - Carne Picante",
+      "ts": "1511124693.000128"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Sumario de pedidos: \n\n",
+      "ts": "1511124693.000100"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511124675.000094"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511124675.000048"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "&amp;gt; *17* - Panceta y Ciruela",
+      "ts": "1511124671.000020"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511124565.000037"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511124466.000056"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511124466.000026"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511124420.000063"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511124420.000034"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511124420.000005"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; R\u00facula",
+      "ts": "1511124390.000045"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron)",
+      "ts": "1511124390.000044"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anchoas (Muzzarella y anchoas)",
+      "ts": "1511124390.000043"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort (Muzzarella y roquefort)",
+      "ts": "1511124390.000024"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Muzzarella y salame calabresa)",
+      "ts": "1511124390.000023"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Napolitana (Muzzarella, tomate y albahaca)",
+      "ts": "1511124390.000022"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Fugaza (Muzzarella y cebolla rehogada)",
+      "ts": "1511124390.000021"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anan\u00e1 (Muzzarella y anan\u00e1)",
+      "ts": "1511124390.000020"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Palmitos (Muzzarella, palmitos y salsa golf)",
+      "ts": "1511124390.000019"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Especial (Muzzarella, morron y jam\u00f3n)",
+      "ts": "1511124390.000018"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Muzzarella (Muzzarella y salsa)",
+      "ts": "1511124390.000017"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511124390.000016"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*Pizzas*:",
+      "ts": "1511124390.000015"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *22* - Dulce de Membrillo",
+      "ts": "1511124390.000014"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *21* - Dulce de Batata",
+      "ts": "1511124390.000013"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *20* - Dulce de Leche y Chocolate",
+      "ts": "1511124390.000012"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *19* - Dulce de Leche y Banana",
+      "ts": "1511124390.000011"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *18* - Dulce de Leche",
+      "ts": "1511124390.000010"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *17* - Panceta y Ciruela",
+      "ts": "1511124390.000009"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *16* - 4 Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511124390.000008"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *15* - Calabresa (Queso y salame calabresa)",
+      "ts": "1511124390.000007"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *14* - Carne de Cerdo",
+      "ts": "1511124390.000006"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *13* - Matambre",
+      "ts": "1511124390.000005"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *12* - Jam\u00f3n y anan\u00e1",
+      "ts": "1511124390.000004"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *11* - Caprese (Tomate, queso y albahaca)",
+      "ts": "1511124390.000003"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *10* - At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota)",
+      "ts": "1511124390.000002"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *9* - Verdura (Acelga, morr\u00f3n, cebolla y ricota)",
+      "ts": "1511124389.000123"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *8* - Roquefort y Muzzarella",
+      "ts": "1511124389.000122"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *7* - Pollo",
+      "ts": "1511124389.000121"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *6* - Queso y Cebolla (Verdeo, queso y cebolla)",
+      "ts": "1511124389.000120"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *5* - Humita (Salsa blanca y choclo)",
+      "ts": "1511124389.000119"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *4* - Jamon y Queso",
+      "ts": "1511124389.000118"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *3* - Carne Picante",
+      "ts": "1511124389.000117",
+      "reactions": [
+        {
+          "name": "one",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "heavy_plus_sign",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "six",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *2* - Carne Dulce (Aceitunas, pasas y huevo)",
+      "ts": "1511124389.000116"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *1* - Carne",
+      "ts": "1511124389.000115",
+      "reactions": [
+        {
+          "name": "six",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: <http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: <tel:0249442-3966|0249 442-3966>\n\n*Empanadas*:",
+      "ts": "1511124389.000114",
+      "reactions": [
+        {
+          "name": "one",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo de rosa",
+      "ts": "1511124389.000066"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511124379.000016"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Esto puede tardar un rato...",
+      "ts": "1511124378.000007"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511124377.000098"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511111325.000032"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=1000",
+      "ts": "1511111324.000095"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511111316.000112"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=500",
+      "ts": "1511111316.000022"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Nadie orden\u00f3 nada en este canal. Quer\u00e9s que busque m\u00e1s? prob\u00e1 aumentar el `deep`.",
+      "ts": "1511111246.000046"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511111245.000027"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511075369.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 35",
+      "ts": "1511075369.000055"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511075323.000058"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 35",
+      "ts": "1511075323.000044"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511075315.000009"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511075289.000053"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511071127.000034"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=1-",
+      "ts": "1511071110.000044"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511071039.000017"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "channel",
+      "ts": "1511071031.000004"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511068833.000039"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 35",
+      "ts": "1511068833.000029"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=100",
+      "ts": "1511068810.000052"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 35",
+      "ts": "1511068760.000006"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068753.000026"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 39",
+      "ts": "1511068750.000004"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068744.000012"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 48",
+      "ts": "1511068740.000021"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068736.000032"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 54",
+      "ts": "1511068730.000054"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068726.000036"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511068682.000006"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 56",
+      "ts": "1511068681.000050"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068677.000019"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511068611.000037"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 8",
+      "ts": "1511068611.000022"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068606.000063"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 1",
+      "ts": "1511068596.000028"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=30",
+      "ts": "1511068591.000016"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068560.000019"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=25",
+      "ts": "1511068555.000039"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511068551.000002",
+      "reactions": [
+        {
+          "name": "eight",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "keycap_ten",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "five",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "three",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "seven",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "one",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "heavy_plus_sign",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "upside_down_face",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068548.000050"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068544.000085"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068535.000051"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068368.000045"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068347.000093"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068337.000051"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068309.000020"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068293.000001"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068290.000003"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty reactions sum is 0",
+      "ts": "1511068268.000040"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511068265.000044"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": ":one:",
+      "ts": "1511066588.000033"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "message empty has reactions: [Reaction(name=eggplant, count=1, users=[U3M4RUQDR])]",
+      "ts": "1511066006.000046"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511066002.000075"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "message Message(type=message, channel=null, user=fake-user, text=empty, attachments=null, ts=1511065825.000043, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=[Reaction(name=eggplant, count=1, users=[U3M4RUQDR])]).text has reactions: Message(type=message, channel=null, user=fake-user, text=empty, attachments=null, ts=1511065825.000043, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=[Reaction(name=eggplant, count=1, users=[U3M4RUQDR])]).reactions",
+      "ts": "1511065905.000046"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=10",
+      "ts": "1511065903.000008"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511065894.000004"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=100",
+      "ts": "1511065859.000004"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511065847.000052"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=50",
+      "ts": "1511065834.000007"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511065825.000043",
+      "reactions": [
+        {
+          "name": "eggplant",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "one",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos deep=20",
+      "ts": "1511065821.000016"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511065812.000017"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511065808.000035"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "empty",
+      "ts": "1511051699.000064"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511051695.000062"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511050799.000079"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511050784.000044"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *4* - Jamon y Queso, attachments=null, ts=1511048290.000063, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *4* - Jamon y Queso, attachments=null, ts=1511048290.000063, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000064, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000094"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *3* - Carne Picante, attachments=null, ts=1511048290.000062, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *3* - Carne Picante, attachments=null, ts=1511048290.000062, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000065, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000067"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *2* - Carne Dulce (Aceitunas, pasas y huevo), attachments=null, ts=1511048290.000061, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *2* - Carne Dulce (Aceitunas, pasas y huevo), attachments=null, ts=1511048290.000061, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000066, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000066"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *1* - Carne, attachments=null, ts=1511048290.000060, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=fake-user, text=&amp;amp;gt; *1* - Carne, attachments=null, ts=1511048290.000060, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000067, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000065"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=fake-user, text=Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: &amp;lt;http:\/\/www.loderosaempanadas.com.ar|<http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>&amp;gt;\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: &amp;lt;tel:0249442-3966|0249 442-3966&amp;gt;\n\n*Empanadas*:, attachments=null, ts=1511048290.000059, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=fake-user, text=Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: &amp;lt;http:\/\/www.loderosaempanadas.com.ar|<http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>&amp;gt;\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: &amp;lt;tel:0249442-3966|0249 442-3966&amp;gt;\n\n*Empanadas*:, attachments=null, ts=1511048290.000059, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000068, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is Message(type=message, channel=null, user=U3M4RUQDR, text=&amp;lt;@fake-user&amp;gt; menu lo de rosa, attachments=null, ts=1511048289.000057, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null) and reactionMessage is Message(type=message, channel=null, user=fake-user, text=Message(type=message, channel=null, user=U3M4RUQDR, text=&amp;lt;@fake-user&amp;gt; menu lo de rosa, attachments=null, ts=1511048289.000057, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null), attachments=null, ts=1511048363.000069, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "text is No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`. and reactionMessage is Message(type=message, channel=null, user=fake-user, text=No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`., attachments=null, ts=1511049625.000035, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511049633.000060"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511049628.000056"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511049625.000035"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedido",
+      "ts": "1511049624.000082"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511049524.000008"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=U3M4RUQDR, text=&lt;@fake-user&gt; menu lo de rosa, attachments=null, ts=1511048289.000057, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000069"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: &lt;http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar&gt;\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: &lt;tel:0249442-3966|0249 442-3966&gt;\n\n*Empanadas*:, attachments=null, ts=1511048290.000059, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000068"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *1* - Carne, attachments=null, ts=1511048290.000060, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000067"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *2* - Carne Dulce (Aceitunas, pasas y huevo), attachments=null, ts=1511048290.000061, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000066"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *3* - Carne Picante, attachments=null, ts=1511048290.000062, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000065"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *4* - Jamon y Queso, attachments=null, ts=1511048290.000063, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *5* - Humita (Salsa blanca y choclo), attachments=null, ts=1511048290.000064, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000063"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *6* - Queso y Cebolla (Verdeo, queso y cebolla), attachments=null, ts=1511048290.000065, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *7* - Pollo, attachments=null, ts=1511048290.000066, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000061"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *8* - Roquefort y Muzzarella, attachments=null, ts=1511048290.000067, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000060"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *9* - Verdura (Acelga, morr\u00f3n, cebolla y ricota), attachments=null, ts=1511048290.000068, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000059"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *10* - At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota), attachments=null, ts=1511048290.000073, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000058"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *11* - Caprese (Tomate, queso y albahaca), attachments=null, ts=1511048290.000074, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000057"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *12* - Jam\u00f3n y anan\u00e1, attachments=null, ts=1511048290.000075, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000056"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *13* - Matambre, attachments=null, ts=1511048290.000076, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000055"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *14* - Carne de Cerdo, attachments=null, ts=1511048290.000077, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000054"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *15* - Calabresa (Queso y salame calabresa), attachments=null, ts=1511048290.000078, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000053"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *16* - 4 Quesos (Fontina, parmesano, roquefort y muzzarella), attachments=null, ts=1511048290.000079, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000052"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *17* - Panceta y Ciruela, attachments=null, ts=1511048290.000080, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000051"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *18* - Dulce de Leche, attachments=null, ts=1511048290.000081, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000050"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *19* - Dulce de Leche y Banana, attachments=null, ts=1511048290.000082, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000049"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *20* - Dulce de Leche y Chocolate, attachments=null, ts=1511048290.000083, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000048"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *21* - Dulce de Batata, attachments=null, ts=1511048290.000084, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000047"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; *22* - Dulce de Membrillo, attachments=null, ts=1511048290.000085, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000046"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=*Pizzas*:, attachments=null, ts=1511048290.000086, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000045"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella), attachments=null, ts=1511048290.000087, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000040"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Muzzarella (Muzzarella y salsa), attachments=null, ts=1511048290.000088, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000039"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Especial (Muzzarella, morron y jam\u00f3n), attachments=null, ts=1511048290.000089, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000038"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Palmitos (Muzzarella, palmitos y salsa golf), attachments=null, ts=1511048290.000090, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000037"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Anan\u00e1 (Muzzarella y anan\u00e1), attachments=null, ts=1511048290.000091, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000036"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Fugaza (Muzzarella y cebolla rehogada), attachments=null, ts=1511048290.000092, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000035"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Napolitana (Muzzarella, tomate y albahaca), attachments=null, ts=1511048290.000093, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000034"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Calabresa (Muzzarella y salame calabresa), attachments=null, ts=1511048290.000094, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000033"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Roquefort (Muzzarella y roquefort), attachments=null, ts=1511048290.000095, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000032"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Anchoas (Muzzarella y anchoas), attachments=null, ts=1511048290.000112, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000031"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron), attachments=null, ts=1511048290.000113, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000030"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=&amp;gt; R\u00facula, attachments=null, ts=1511048290.000114, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000029"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=U3M4RUQDR, text=&lt;@fake-user&gt; conteo pedidos, attachments=null, ts=1511048306.000037, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000028"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=fake-user, text=CountReactions executed, attachments=null, ts=1511048306.000054, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000027"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Message(type=message, channel=null, user=U3M4RUQDR, text=&lt;@fake-user&gt; conteo pedidos, attachments=null, ts=1511048362.000023, threadTs=null, starred=false, wibblr=false, pinnedTo=null, reactions=null)",
+      "ts": "1511048363.000025"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511048362.000023"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "CountReactions executed",
+      "ts": "1511048306.000054"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> conteo pedidos",
+      "ts": "1511048306.000037"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; R\u00facula",
+      "ts": "1511048290.000114"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron)",
+      "ts": "1511048290.000113"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anchoas (Muzzarella y anchoas)",
+      "ts": "1511048290.000112"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort (Muzzarella y roquefort)",
+      "ts": "1511048290.000095"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Muzzarella y salame calabresa)",
+      "ts": "1511048290.000094"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Napolitana (Muzzarella, tomate y albahaca)",
+      "ts": "1511048290.000093"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Fugaza (Muzzarella y cebolla rehogada)",
+      "ts": "1511048290.000092"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anan\u00e1 (Muzzarella y anan\u00e1)",
+      "ts": "1511048290.000091"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Palmitos (Muzzarella, palmitos y salsa golf)",
+      "ts": "1511048290.000090"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Especial (Muzzarella, morron y jam\u00f3n)",
+      "ts": "1511048290.000089"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Muzzarella (Muzzarella y salsa)",
+      "ts": "1511048290.000088"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511048290.000087"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*Pizzas*:",
+      "ts": "1511048290.000086"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *22* - Dulce de Membrillo",
+      "ts": "1511048290.000085"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *21* - Dulce de Batata",
+      "ts": "1511048290.000084"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *20* - Dulce de Leche y Chocolate",
+      "ts": "1511048290.000083"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *19* - Dulce de Leche y Banana",
+      "ts": "1511048290.000082"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *18* - Dulce de Leche",
+      "ts": "1511048290.000081"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *17* - Panceta y Ciruela",
+      "ts": "1511048290.000080"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *16* - 4 Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1511048290.000079"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *15* - Calabresa (Queso y salame calabresa)",
+      "ts": "1511048290.000078"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *14* - Carne de Cerdo",
+      "ts": "1511048290.000077"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *13* - Matambre",
+      "ts": "1511048290.000076"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *12* - Jam\u00f3n y anan\u00e1",
+      "ts": "1511048290.000075"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *11* - Caprese (Tomate, queso y albahaca)",
+      "ts": "1511048290.000074"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *10* - At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota)",
+      "ts": "1511048290.000073"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *9* - Verdura (Acelga, morr\u00f3n, cebolla y ricota)",
+      "ts": "1511048290.000068"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *8* - Roquefort y Muzzarella",
+      "ts": "1511048290.000067"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *7* - Pollo",
+      "ts": "1511048290.000066"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *6* - Queso y Cebolla (Verdeo, queso y cebolla)",
+      "ts": "1511048290.000065"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *5* - Humita (Salsa blanca y choclo)",
+      "ts": "1511048290.000064"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *4* - Jamon y Queso",
+      "ts": "1511048290.000063"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *3* - Carne Picante",
+      "ts": "1511048290.000062"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *2* - Carne Dulce (Aceitunas, pasas y huevo)",
+      "ts": "1511048290.000061"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; *1* - Carne",
+      "ts": "1511048290.000060"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: <http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: <tel:0249442-3966|0249 442-3966>\n\n*Empanadas*:",
+      "ts": "1511048290.000059"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo de rosa",
+      "ts": "1511048289.000057"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511048285.000022"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo derosa",
+      "ts": "1511048284.000093"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511048280.000067"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu rosa",
+      "ts": "1511048280.000040"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1511048274.000023"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu rosa",
+      "ts": "1511048266.000043"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "sdfsd",
+      "ts": "1508725211.000028",
+      "reactions": [
+        {
+          "name": "eggplant",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "kissing_closed_eyes",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "heavy_plus_sign",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "one",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "two",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "three",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "four",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "five",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "six",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "seven",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "eight",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "nine",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        },
+        {
+          "name": "keycap_ten",
+          "users": [
+            "U3M4RUQDR"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1508717580.000021"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> asd",
+      "ts": "1508717568.000019"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "fghf",
+      "ts": "1508717562.000023"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "fsdf",
+      "ts": "1508717557.000048"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "sdfsdf",
+      "ts": "1508717468.000082"
+    },
+    {
+      "type": "message",
+      "user": "U74NFG2UE",
+      "text": "c\u00f3mo pruebo ac\u00e1?",
+      "ts": "1505499759.000044"
+    },
+    {
+      "user": "U74NFG2UE",
+      "inviter": "U3M4RUQDR",
+      "text": "<@U74NFG2UE> has joined the channel",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1505491530.000174"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; R\u00facula",
+      "ts": "1501970552.584613"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Gran Charly (Muzzarella, panceta ahumada, huevo frito y morron)",
+      "ts": "1501970552.584612"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anchoas (Muzzarella y anchoas)",
+      "ts": "1501970552.584588"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort (Muzzarella y roquefort)",
+      "ts": "1501970552.584587"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Muzzarella y salame calabresa)",
+      "ts": "1501970552.584586"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Napolitana (Muzzarella, tomate y albahaca)",
+      "ts": "1501970552.584585"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Fugaza (Muzzarella y cebolla rehogada)",
+      "ts": "1501970552.584584"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Anan\u00e1 (Muzzarella y anan\u00e1)",
+      "ts": "1501970552.584583"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Palmitos (Muzzarella, palmitos y salsa golf)",
+      "ts": "1501970552.584582"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Especial (Muzzarella, morron y jam\u00f3n)",
+      "ts": "1501970552.584581"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Muzzarella (Muzzarella y salsa)",
+      "ts": "1501970552.584580"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Cuatro Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1501970552.584579"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "*Pizzas*:",
+      "ts": "1501970552.584575"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Dulce de Membrillo",
+      "ts": "1501970552.584574"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Dulce de Batata",
+      "ts": "1501970552.584573"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Dulce de Leche y Chocolate",
+      "ts": "1501970552.584572"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Dulce de Leche y Banana",
+      "ts": "1501970552.584571"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Dulce de Leche",
+      "ts": "1501970552.584570"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Panceta y Ciruela",
+      "ts": "1501970552.584569"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; 4 Quesos (Fontina, parmesano, roquefort y muzzarella)",
+      "ts": "1501970552.584568"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Calabresa (Queso y salame calabresa)",
+      "ts": "1501970552.584567"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Carne de Cerdo",
+      "ts": "1501970552.584566"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Matambre",
+      "ts": "1501970552.584565"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Jam\u00f3n y anan\u00e1",
+      "ts": "1501970552.584564"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Caprese (Tomate, queso y albahaca)",
+      "ts": "1501970552.584563"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; At\u00fan (At\u00fan, cebolla, morr\u00f3n y ricota)",
+      "ts": "1501970552.584562"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Verdura (Acelga, morr\u00f3n, cebolla y ricota)",
+      "ts": "1501970552.584561"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Roquefort y Muzzarella",
+      "ts": "1501970552.584559"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Pollo",
+      "ts": "1501970552.584558"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Queso y Cebolla (Verdeo, queso y cebolla)",
+      "ts": "1501970552.584557"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Humita (Salsa blanca y choclo)",
+      "ts": "1501970552.584556"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Jamon y Queso",
+      "ts": "1501970552.584555"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Carne Picante",
+      "ts": "1501970552.584554"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Carne Dulce (Aceitunas, pasas y huevo)",
+      "ts": "1501970552.584553"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; Carne",
+      "ts": "1501970552.584552"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Lo de Rosa, empanadas y pizzas.\n\u00b7 _P\u00e1gina_: <http:\/\/www.loderosaempanadas.com.ar|www.loderosaempanadas.com.ar>\n\u00b7 _Direcci\u00f3n_: Maip\u00fa 973\n\u00b7 _Tel\u00e9fono_: <tel:0249442-3966|0249 442-3966>\n\n*Empanadas*:",
+      "ts": "1501970552.584551"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu lo de rosa",
+      "ts": "1501970552.584507"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "ADEMAS: COCTELER\u00edA \/ CERVEZAS Nacionales e Importadas\/ \/VINOS\nPARA CONSULTAS Y PEDIDOS PODES ENVIAR MENSAJE \nPRIVADO EN LA P\u00c1GINA O LLAMANDO AL 4432274 O PERSONALMENTE POR EL LOCAL QUE QUEDA EN MAIPU 667!!",
+      "ts": "1501970539.583501"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; POSTRES ($80) Consultar Disponibilidad",
+      "ts": "1501970539.583481"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; PIZZAS SOHO - Individuales - $55",
+      "ts": "1501970539.583480"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; POLLO $100",
+      "ts": "1501970539.583479"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; COUS COUS $90",
+      "ts": "1501970539.583478"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; LIMONETTA $98",
+      "ts": "1501970539.583477"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; COBB $90",
+      "ts": "1501970539.583476"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; POLLO $90",
+      "ts": "1501970539.583475"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; CAESAR $80",
+      "ts": "1501970539.583474"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; de POLLO ASADO, Verdeo, Cebollas y Mozzarella ($100)",
+      "ts": "1501970539.583473"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; QUESADILLAS de VEGETALES a la PARRILLA ($90)",
+      "ts": "1501970539.583472"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; BIFE DE CHORIZO a la PARRILLA $115",
+      "ts": "1501970539.583469"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; SALCHICHA ALEMANA AHUMADA de CABA\u00d1A LAS DINAS $98",
+      "ts": "1501970539.583468"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; HAMBURGUESA CASERA $100",
+      "ts": "1501970539.583467"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; BONDIOLITA a la PARRILLA $100",
+      "ts": "1501970539.583466"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; SALCHICHA CASERA a la Parrilla con Pur\u00e9 de Papas R\u00fastico y Batatas Asadas.($90)",
+      "ts": "1501970539.583465"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; POLLO al CURRY en Pan Integral, Rucula. Tomate, Cebollas confitadas, Mostaza Antigua. ($100)",
+      "ts": "1501970539.583464"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; PAPAS SOHO gratinadas con Queso Mozzarella, Panceta Crocante, Verdeo y Semillas ($90)",
+      "ts": "1501970539.583463"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; HAMBURGUESA de CERDO TEX MEX a la parrilla, con pico de gallo (Tomate, cebolla, cilantro, limon y especias) Barbacoa ahumada, Queso Doble cheddar y Papas ($100)",
+      "ts": "1501970539.583462"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; CACHORRO BRASILERO de Salchicha ahumada a la parrilla, tomate, Choclo, Queso Gouda Gratinado, Mostaza antigua y Papas ($100)",
+      "ts": "1501970539.583461"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; CHIVITO URUGUAYO de ojo de bife a la parrilla, en Pan de Campo, huevo, lechuga, tomate, panceta y jamon cocido. Con papas ($130)",
+      "ts": "1501970539.583458"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; CHULETAS de CERDO AHUMADAS de Las Dinas. A la parrilla, con Barbacoa Casera y BATATAS Asadas Gratinadas con queso mozzarella y Semillas ($150)",
+      "ts": "1501970539.583457"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; \u00d1OQUIS RELLENOS, de Espinaca y Mozzarella con Salsa Crema de CALABAZA ASADA, Vegetales, Rucula y Semillas. ($100)",
+      "ts": "1501970539.583456"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; BONDIOLA AHUMADO de 12 horas con Pan a la Chapa, hojas verdes, Cebollas Asadas, tomate, Verdeo y Batatas Asadas ($130)",
+      "ts": "1501970539.583455"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; HAMBURGUESA IRLANDESA de Carne a la Parrilla, Cebollas Flambeadas con Whisky, Morcilla a la Plancha, Mayonesa de hierbas, Tomate y Rucula. Con Papas ($110)",
+      "ts": "1501970539.583454"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "&gt; EMPANADAS DE VEGETALES AL CURRY con Mozzarella y Semillas. ($22 c\/u)",
+      "ts": "1501970539.583453"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "S\u00c1BADO - MEDIOD\u00cdA EN COCINA SOHO !",
+      "ts": "1501970539.583452"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> menu soho",
+      "ts": "1501970538.583348"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "No Entend\u00ed. Quer\u00e9s que te ayude? escrib\u00ed `@morfi-bot ayuda`.",
+      "ts": "1501970524.582370"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> asd",
+      "ts": "1501970524.582321"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "First group: ab12xy\nSecond group: ab\nThird group: 12\nFourth group: xy",
+      "ts": "1489275265.757540"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "ab12xy",
+      "ts": "1489275265.757537"
+    },
+    {
+      "type": "message",
+      "subtype": "pinned_item",
+      "user": "U3M4RUQDR",
+      "item_type": "C",
+      "attachments": [
+        {
+          "fallback": "[March 11th, 2017 3:32 PM] checho: asdsa",
+          "ts": "1489275134.751547",
+          "author_id": "U3M4RUQDR",
+          "author_subname": "Cesar Perez",
+          "channel_id": "fake-channel",
+          "channel_name": "lunch",
+          "is_msg_unfurl": true,
+          "text": "asdsa",
+          "author_name": "Cesar Perez",
+          "author_link": "https:\/\/tandil.slack.com\/team\/U3M4RUQDR",
+          "author_icon": "https:\/\/secure.gravatar.com\/avatar\/7eaa26ee68d53ff34314ba7a88858050.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0012-48.png",
+          "mrkdwn_in": [
+            "text"
+          ]
+        }
+      ],
+      "text": "<@U3M4RUQDR> pinned a message to this channel.",
+      "ts": "1489275164.752908"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Thanks for the pin! You can find all pinned items under channel details.",
+      "ts": "1489275164.752906"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Thanks for the pin! You can find all pinned items under channel details.",
+      "ts": "1489275147.752164"
+    },
+    {
+      "type": "message",
+      "subtype": "pinned_item",
+      "user": "U3M4RUQDR",
+      "item_type": "C",
+      "attachments": [
+        {
+          "fallback": "[March 11th, 2017 3:32 PM] lunch-bot: Hi, I am lunch-bot",
+          "ts": "1489275140.751852",
+          "author_id": "fake-user",
+          "author_subname": "lunch-bot",
+          "channel_id": "fake-channel",
+          "channel_name": "lunch",
+          "is_msg_unfurl": true,
+          "text": "Hi, I am lunch-bot",
+          "author_name": "lunch-bot",
+          "author_link": "https:\/\/tandil.slack.com\/team\/fake-user",
+          "author_icon": "https:\/\/avatars.slack-edge.com\/2017-03-10\/153343811494_c96bc1a61ca5e2a3bbfd_48.png",
+          "mrkdwn_in": [
+            "text"
+          ]
+        }
+      ],
+      "text": "<@U3M4RUQDR> pinned a message to this channel.",
+      "ts": "1489275147.752163"
+    },
+    {
+      "type": "message",
+      "user": "fake-user",
+      "text": "Hi, I am lunch-bot",
+      "ts": "1489275140.751852",
+      "pinned_to": [
+        "fake-channel"
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "<@fake-user> asdas",
+      "ts": "1489275140.751851"
+    },
+    {
+      "type": "message",
+      "user": "U3M4RUQDR",
+      "text": "asdsa",
+      "ts": "1489275134.751547",
+      "pinned_to": [
+        "fake-channel"
+      ]
+    },
+    {
+      "user": "fake-user",
+      "inviter": "U3M4RUQDR",
+      "text": "<@fake-user> has joined the channel",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1489159275.000003"
+    },
+    {
+      "user": "U3M4RUQDR",
+      "text": "<@U3M4RUQDR> has joined the channel",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1489159266.000002"
+    }
+  ],
+  "has_more": false
+}

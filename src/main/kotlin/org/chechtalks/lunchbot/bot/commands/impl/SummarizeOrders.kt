@@ -22,7 +22,6 @@ class SummarizeOrders(
         private val reactionsCounter: ReactionsCounter)
     : BotCommand {
 
-    private var deep = 1000
     private lateinit var channel: String
 
     private val titleMessage = messages.get("lunchbot.response.summary.title")
@@ -57,7 +56,7 @@ class SummarizeOrders(
                 .map { toOrderSummary(it) }
     }
 
-    private fun fetchBotMessages() = channelOperations.fetchTodayBotMessages(channel, deep)
+    private fun fetchBotMessages() = channelOperations.fetchTodayBotMessages(channel)
 
     private fun isAMenu(it: ApiMessage) = it.text.isQuoted()
 

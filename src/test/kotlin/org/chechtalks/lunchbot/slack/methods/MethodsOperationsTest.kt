@@ -1,75 +1,90 @@
 package org.chechtalks.lunchbot.slack.methods
 
 import com.github.seratch.jslack.Slack
-import com.github.seratch.jslack.api.methods.MethodsClient
-import com.github.seratch.jslack.api.methods.request.channels.ChannelsHistoryRequest
-import com.github.seratch.jslack.api.methods.request.reactions.ReactionsGetRequest
-import org.hamcrest.Matchers
+import com.github.tomakehurst.wiremock.WireMockServer
+import com.github.tomakehurst.wiremock.core.WireMockConfiguration
+import org.chechtalks.lunchbot.bot.BotUser
+import org.hamcrest.Matchers.*
+import org.junit.After
 import org.junit.Assert.assertThat
-import org.junit.Ignore
+import org.junit.Before
 import org.junit.Test
-import org.junit.runner.RunWith
-import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.test.context.ContextConfiguration
-import org.springframework.test.context.junit4.SpringRunner
+import java.time.Clock
+import java.time.LocalDateTime
+import java.time.ZoneId
+import java.time.ZoneOffset
 import kotlin.test.assertTrue
 
-@RunWith(SpringRunner::class)
-@ContextConfiguration(classes = arrayOf(MethodsApiConfiguration::class, ChannelOperations::class))
+
 class MethodsOperationsTest {
 
-    private val A_CHANNEL = "C4GN5ADS9"
-    private val A_TOKEN = "xoxb-153343187078-vLEFK2YkvXUCaWRIb9wLYZkB"
+    private val channel = "fake-channel"
+    private val token = "fake-token"
+    private val botUser = "fake-user"
+    private val zoneOffset = ZoneOffset.UTC
+    private val zoneId = ZoneId.of("UTC")
+    private val wireMockPort = 9090
 
-    @Autowired lateinit var channelOperations: ChannelOperations
+    private lateinit var wireMockServer: WireMockServer
 
-    @Test
-    @Ignore
-    fun it_fetches_historic_messages_from_channel() {
-        //given
-//        val mockEnv = mock<Environment> {
-//            on { getProperty("slackBotToken") } doReturn A_TOKEN
-//        }
+    private lateinit var channelOperations: ChannelOperations
 
-        val messageHistory = channelOperations.fetchMessageHistory(A_CHANNEL)
+    @Before
+    fun setup() {
+        val config = WireMockConfiguration.wireMockConfig()
+                .port(wireMockPort)
+                .usingFilesUnderDirectory("src/test/resources/wiremock")
+        wireMockServer = WireMockServer(config)
+        wireMockServer.start()
 
-        //then
-        assertThat(messageHistory.size, Matchers.greaterThan(50))
+        val methodsApi = Slack.getInstance().methods()
+        methodsApi.setEndpointUrlPrefix("http://localhost:$wireMockPort/")
+
+        BotUser.id = botUser
+
+        val mockTime = LocalDateTime.of(2017, 11, 20, 12, 0)
+        SlackTimestamp.clock = Clock.fixed(mockTime.toInstant(zoneOffset), zoneId)
+
+        channelOperations = ChannelOperations(methodsApi, token)
+    }
+
+    @After
+    fun tearDown() {
+        wireMockServer.stop()
     }
 
     @Test
-    @Ignore
-    fun it_does_something_about_reactions() {
-        //given
-        val slackMethodsApi = Slack.getInstance().methods()
-        val aMessage = fetchAMessage(slackMethodsApi)
-
-        val request = ReactionsGetRequest.builder()
-                .token(A_TOKEN)
-                .channel(A_CHANNEL)
-                .timestamp(aMessage.ts)
-                .build()
-
+    fun `it fetches historic messages from channel`() {
         //when
-        val response = slackMethodsApi.reactionsGet(request)
+        val messages = channelOperations.fetchMessageHistory(channel)
 
         //then
-        assertTrue { response.isOk }
+        assertThat(messages.size, greaterThan(500))
 
-        val resultingMessage = response.message
-        println(resultingMessage.text)
-        println(resultingMessage.reactions)
-
+        val messagesWithReactions = messages.filter { it.reactions != null }
+        assertThat(messagesWithReactions.size, greaterThan(1))
     }
 
-    private fun fetchAMessage(slackMethodsApi: MethodsClient): ApiMessage {
-        val request = ChannelsHistoryRequest.builder()
-                .token(A_TOKEN)
-                .channel(A_CHANNEL)
-                .count(1)
-                .build()
-        val response = slackMethodsApi.channelsHistory(request)
+    @Test
+    fun `it fetches only bot messages from this day`() {
+        //when
+        val messages = channelOperations.fetchTodayBotMessages(channel)
 
-        return response.messages.first()
+        //then
+        assertThat(messages.size, greaterThan(50))
+        assertThat(messages.size, lessThan(100))
+    }
+
+    @Test
+    fun `it fetches reactions in messages`() {
+        //when
+        val messages = channelOperations.fetchTodayBotMessages(channel)
+
+        //then
+        val messagesWithReactions = messages.filter { it.reactions != null }
+        assertThat(messagesWithReactions.size, `is`(1))
+
+        val reactionMessage = messagesWithReactions.first()
+        assertTrue { reactionMessage.text.contains("Muzzarella y anchoas") }
     }
 }

@@ -53,4 +53,5 @@ dependencies {
     compile "com.github.seratch:jslack:1.+"
     compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.+"
     testCompile "com.nhaarman:mockito-kotlin-kt1.1:1.5.+"
+    testCompile "com.github.tomakehurst:wiremock-standalone:2.11.+"
 }
