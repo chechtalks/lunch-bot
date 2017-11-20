@@ -10,11 +10,12 @@ class ChannelOperations(
         private val slackMethodsApi: MethodsClient,
         private val slackToken: String) {
 
-    fun fetchMessageHistory(channel: String, count: Int = 100): List<ApiMessage> {
+    fun fetchMessageHistory(channel: String, count: Int = 100, oldest: String = "0"): List<ApiMessage> {
         val request = ChannelsHistoryRequest.builder()
                 .token(slackToken)
                 .channel(channel)
                 .count(count)
+                .oldest(oldest)
                 .build()
 
         val response = slackMethodsApi.channelsHistory(request)
@@ -24,8 +25,10 @@ class ChannelOperations(
         return response.messages
     }
 
-    fun fetchBotMessageHistory(channel: String, count: Int = 100): List<ApiMessage> {
-        return fetchMessageHistory(channel, count)
+    fun fetchBotMessageTodayHistory(channel: String, count: Int = 100): List<ApiMessage> {
+        val startOfDay = SlackTimestamp.atStartOfDay().toString()
+
+        return fetchMessageHistory(channel, count, startOfDay)
                 .filter { it.user == BotUser.id }
     }
 }

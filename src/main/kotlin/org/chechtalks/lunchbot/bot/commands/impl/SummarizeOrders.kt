@@ -57,11 +57,12 @@ class SummarizeOrders(
                 .map { toOrderSummary(it) }
     }
 
-    private fun fetchBotMessages() = channelOperations.fetchBotMessageHistory(channel, deep)
+    private fun fetchBotMessages() = channelOperations.fetchBotMessageTodayHistory(channel, deep)
 
     private fun isAMenu(it: ApiMessage) = it.text.isQuoted()
 
     private fun hasReactions(it: ApiMessage) = it.reactions != null
+
     private fun toOrderSummary(it: ApiMessage): String {
         val sum = ordersCalculator.calculateSum(it.reactions)
         val menu = it.text.removeQuotes()
