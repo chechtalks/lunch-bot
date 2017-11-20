@@ -4,7 +4,7 @@ import com.github.seratch.jslack.api.model.Reaction
 import org.springframework.stereotype.Component
 
 @Component
-class ReservationsCalculator {
+class OrdersCalculator {
 
     fun calculateSum(reactions: List<Reaction>): Int {
         return reactions

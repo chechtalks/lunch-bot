@@ -35,12 +35,6 @@ bootRun {
     systemProperties = System.properties
 }
 
-kotlin {
-    experimental {
-        coroutines "enable"
-    }
-}
-
 dependencies {
     /* Spring dependencies */
     compile "org.springframework.boot:spring-boot-starter"
@@ -52,7 +46,6 @@ dependencies {
     /* Kotlin dependencies */
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
     compile "org.jetbrains.kotlin:kotlin-reflect:$kotlinVersion"
-    compile 'org.jetbrains.kotlinx:kotlinx-coroutines-core:0.+'
     testCompile "org.jetbrains.kotlin:kotlin-test-junit:$kotlinVersion"
 
     /* Other dependencies */

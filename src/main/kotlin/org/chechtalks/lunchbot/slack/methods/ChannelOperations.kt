@@ -28,5 +28,4 @@ class ChannelOperations(
         return fetchMessageHistory(channel, count)
                 .filter { it.user == BotUser.id }
     }
-
 }
