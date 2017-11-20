@@ -57,7 +57,7 @@ class SummarizeOrders(
                 .map { toOrderSummary(it) }
     }
 
-    private fun fetchBotMessages() = channelOperations.fetchBotMessageTodayHistory(channel, deep)
+    private fun fetchBotMessages() = channelOperations.fetchTodayBotMessages(channel, deep)
 
     private fun isAMenu(it: ApiMessage) = it.text.isQuoted()
 

@@ -15,7 +15,7 @@ class SlackTimestampTest {
         val startOfDayTs = SlackTimestamp.atStartOfDay()
 
         // when
-        val startOfDayInstant = Instant.ofEpochSecond(startOfDayTs)
+        val startOfDayInstant = Instant.ofEpochSecond(startOfDayTs.epoch)
         val startOfDayZoned = startOfDayInstant.atOffset(ZoneOffset.UTC)
         val localDateTime = startOfDayZoned.toLocalDateTime()
 

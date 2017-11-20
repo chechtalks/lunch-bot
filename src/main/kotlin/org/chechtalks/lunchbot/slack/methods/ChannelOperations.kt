@@ -25,7 +25,7 @@ class ChannelOperations(
         return response.messages
     }
 
-    fun fetchBotMessageTodayHistory(channel: String, count: Int = 100): List<ApiMessage> {
+    fun fetchTodayBotMessages(channel: String, count: Int = 100): List<ApiMessage> {
         val startOfDay = SlackTimestamp.atStartOfDay().toString()
 
         return fetchMessageHistory(channel, count, startOfDay)

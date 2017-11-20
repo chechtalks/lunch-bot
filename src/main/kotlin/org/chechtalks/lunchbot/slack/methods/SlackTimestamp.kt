@@ -3,7 +3,14 @@ package org.chechtalks.lunchbot.slack.methods
 import java.time.LocalDate
 import java.time.ZoneOffset
 
-object SlackTimestamp {
+class SlackTimestamp(val epoch: Long) {
 
-    fun atStartOfDay() = LocalDate.now().atStartOfDay().toInstant(ZoneOffset.UTC).epochSecond
+    companion object {
+        fun atStartOfDay(): SlackTimestamp {
+            val startOfDayEpoch = LocalDate.now().atStartOfDay().toInstant(ZoneOffset.UTC).epochSecond
+            return SlackTimestamp(startOfDayEpoch)
+        }
+    }
+
+    override fun toString() = epoch.toString()
 }
