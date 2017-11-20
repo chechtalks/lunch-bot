@@ -17,13 +17,18 @@ import org.springframework.stereotype.Component
 
 @Component
 class SummarizeOrders(
-        private val messages: MessageResolver,
+        messages: MessageResolver,
         private val channelOperations: ChannelOperations,
         private val ordersCalculator: OrdersCalculator)
     : BotCommand {
 
     private var deep = 1000
     private lateinit var channel: String
+
+    private val titleMessage = messages.get("lunchbot.response.summary.title")
+    private val orderMessage = messages.get("lunchbot.response.summary.orderof")
+    private val ordersMessage = messages.get("lunchbot.response.summary.ordersof")
+    private val notFoundMessage = messages.get("lunchbot.response.summary.notfound")
 
     override fun invoked(event: Event): Boolean {
         val invoked = event.text.contains(CONTEO, PEDIDOS)
@@ -37,14 +42,13 @@ class SummarizeOrders(
         val orderSummaries = getOrderSummaries()
 
         if (orderSummaries.isEmpty()) {
-            response.send(defaultResponse())
+            response.send(notFoundMessage)
             return
         }
 
-        response.send("${messages.get("lunchbot.response.summary.title")} $DOUBLE_JUMP")
+        response.send("$titleMessage $DOUBLE_JUMP")
         orderSummaries.forEach { response.send(it) }
     }
-
 
     private fun getOrderSummaries(): List<String> {
         return fetchBotMessages()
@@ -53,14 +57,11 @@ class SummarizeOrders(
                 .map { toOrderSummary(it) }
     }
 
-    private fun defaultResponse() = messages.get("lunchbot.response.summary.notfound")
-
     private fun fetchBotMessages() = channelOperations.fetchBotMessageHistory(channel, deep)
 
     private fun isAMenu(it: ApiMessage) = it.text.isQuoted()
 
     private fun hasReactions(it: ApiMessage) = it.reactions != null
-
     private fun toOrderSummary(it: ApiMessage): String {
         val sum = ordersCalculator.calculateSum(it.reactions)
         val menu = it.text.removeQuotes()
@@ -71,8 +72,8 @@ class SummarizeOrders(
 
     private fun getProperPhrase(sum: Int): String {
         return if (sum == 1)
-            messages.get("lunchbot.response.summary.orderof")
+            orderMessage
         else
-            messages.get("lunchbot.response.summary.ordersrof")
+            ordersMessage
     }
 }
