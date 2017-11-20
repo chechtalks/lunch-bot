@@ -5,7 +5,7 @@ import org.chechtalks.lunchbot.bot.commands.BotCommand
 import org.chechtalks.lunchbot.bot.commands.CONTEO
 import org.chechtalks.lunchbot.bot.commands.PEDIDOS
 import org.chechtalks.lunchbot.bot.messaging.BotResponse
-import org.chechtalks.lunchbot.bot.utils.OrdersCalculator
+import org.chechtalks.lunchbot.bot.utils.ReactionsCounter
 import org.chechtalks.lunchbot.config.MessageResolver
 import org.chechtalks.lunchbot.extensions.DOUBLE_JUMP
 import org.chechtalks.lunchbot.extensions.contains
@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component
 class SummarizeOrders(
         messages: MessageResolver,
         private val channelOperations: ChannelOperations,
-        private val ordersCalculator: OrdersCalculator)
+        private val reactionsCounter: ReactionsCounter)
     : BotCommand {
 
     private var deep = 1000
@@ -64,7 +64,7 @@ class SummarizeOrders(
     private fun hasReactions(it: ApiMessage) = it.reactions != null
 
     private fun toOrderSummary(it: ApiMessage): String {
-        val sum = ordersCalculator.calculateSum(it.reactions)
+        val sum = reactionsCounter.count(it.reactions)
         val menu = it.text.removeQuotes()
         val phrase = getProperPhrase(sum)
 

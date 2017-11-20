@@ -4,11 +4,11 @@ import com.github.seratch.jslack.api.model.Reaction
 import org.springframework.stereotype.Component
 
 @Component
-class OrdersCalculator {
+class ReactionsCounter {
 
-    fun calculateSum(reactions: List<Reaction>): Int {
+    fun count(reactions: List<Reaction>): Int {
         return reactions
-                .mapNotNull { weightOf[it.name] }
+                .mapNotNull { weightOf[it.name]?.times(it.count) }
                 .sum()
     }
 
