@@ -20,7 +20,8 @@ class ChannelOperations(
 
         val response = slackMethodsApi.channelsHistory(request)
 
-        assert(response.isOk) { "Error calling Slack Methods API" }
+        if (!response.isOk)
+            throw SlackMethodsApiException("Got this error response calling channels.history: ${response.error}")
 
         return response.messages
     }

@@ -1,23 +1,23 @@
 {
-  "id": "7a8c20de-a60f-3eeb-8bf7-8ed4157e3540",
+  "id": "38cad287-27e3-30f4-825a-3cbbc3e0c323",
   "request": {
     "url": "/channels.history",
     "method": "POST",
     "bodyPatterns": [
       {
-        "equalTo": "token=fake-token&channel=fake-channel&oldest=0&count=1000"
+        "equalTo": "token=fake-token&channel=fake-channel&oldest=1511136000&count=1000"
       }
     ]
   },
   "response": {
     "status": 200,
-    "bodyFileName": "body-channels.history-T0uUH.json",
+    "bodyFileName": "body-channels.history-today.json",
     "headers": {
       "Content-Type": "application/json; charset=utf-8",
       "Connection": "keep-alive",
       "Access-Control-Allow-Origin": "*",
       "Cache-Control": "private, no-cache, no-store, must-revalidate",
-      "Date": "Mon, 20 Nov 2017 18:45:45 GMT",
+      "Date": "Mon, 20 Nov 2017 18:45:44 GMT",
       "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
       "Pragma": "no-cache",
       "Referrer-Policy": "no-referrer",
@@ -28,12 +28,12 @@
       "X-Content-Type-Options": "nosniff",
       "X-OAuth-Scopes": "identify,read,post,client,apps",
       "X-Slack-Backend": "h",
-      "X-Slack-Req-Id": "e97e5796-867b-40d0-894c-3af73042a0f2",
+      "X-Slack-Req-Id": "b3eec80e-63df-4964-bcae-f643bccf731a",
       "X-XSS-Protection": "0",
       "X-Cache": "Miss from cloudfront",
       "Via": "1.1 5136867c641292f8749213ac118dab6f.cloudfront.net (CloudFront)",
-      "X-Amz-Cf-Id": "ayFS5ZulRAn3qraDa_qG-bUuc2F3tE8WIzdw0qrnDkS0NO4RyNDW8g=="
+      "X-Amz-Cf-Id": "cd-Z_oO-kK559NTGMxq6aTdBsC4Be9u63VdYwes6wGm-BW0KKNb07w=="
     }
   },
-  "uuid": "7a8c20de-a60f-3eeb-8bf7-8ed4157e3540"
+  "uuid": "38cad287-27e3-30f4-825a-3cbbc3e0c323"
 }

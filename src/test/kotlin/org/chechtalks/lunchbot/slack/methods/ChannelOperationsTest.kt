@@ -13,12 +13,14 @@ import java.time.Clock
 import java.time.LocalDateTime
 import java.time.ZoneId
 import java.time.ZoneOffset
+import kotlin.test.assertFailsWith
 import kotlin.test.assertTrue
 
 
-class MethodsOperationsTest {
+class ChannelOperationsTest {
 
     private val channel = "fake-channel"
+    private val channelBroken = "broken-channel"
     private val token = "fake-token"
     private val botUser = "fake-user"
     private val zoneOffset = ZoneOffset.UTC
@@ -86,5 +88,12 @@ class MethodsOperationsTest {
 
         val reactionMessage = messagesWithReactions.first()
         assertTrue { reactionMessage.text.contains("Muzzarella y anchoas") }
+    }
+
+    @Test
+    fun `it handles errors`() {
+        assertFailsWith<SlackMethodsApiException> {
+            channelOperations.fetchTodayBotMessages(channelBroken)
+        }
     }
 }
