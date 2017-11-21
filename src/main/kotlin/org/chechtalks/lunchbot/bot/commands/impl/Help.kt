@@ -8,7 +8,6 @@ import org.chechtalks.lunchbot.bot.commands.SingleMessageBotCommand
 import org.chechtalks.lunchbot.config.MessageResolver
 import org.chechtalks.lunchbot.extensions.DOUBLE_JUMP
 import org.chechtalks.lunchbot.extensions.contains
-import org.chechtalks.lunchbot.extensions.quoted
 import org.springframework.stereotype.Component
 
 @Component
@@ -21,7 +20,7 @@ class Help(private val messages: MessageResolver, private val commands: List<Bot
 
         commands.map { it.help() }
                 .filterNotNull()
-                .forEach { message += it.quoted() + DOUBLE_JUMP }
+                .forEach { message += "- $it$DOUBLE_JUMP" }
 
         return Message(message)
     }

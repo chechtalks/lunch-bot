@@ -28,6 +28,7 @@ class SummarizeOrders(
     private val orderMessage = messages.get("lunchbot.response.summary.orderof")
     private val ordersMessage = messages.get("lunchbot.response.summary.ordersof")
     private val notFoundMessage = messages.get("lunchbot.response.summary.notfound")
+    private val help = messages.get("lunchbot.response.help.summary")
 
     override fun invoked(event: Event): Boolean {
         val invoked = event.text.contains(CONTEO, PEDIDOS)
@@ -48,6 +49,8 @@ class SummarizeOrders(
         response.send("$titleMessage $DOUBLE_JUMP")
         orderSummaries.forEach { response.send(it) }
     }
+
+    override fun help() = help
 
     private fun getOrderSummaries(): List<String> {
         return fetchBotMessages()
